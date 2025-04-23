@@ -10,9 +10,8 @@ public class Demo {
         System.out.println("The multiplication result is:"+(a*b));
         System.out.println("The division result is:"+(a/b));
         
-    }
+    
 
-}
 
     }
 }
